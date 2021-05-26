@@ -134,4 +134,4 @@ dmypy.json
 eb-package.zip
 static/
 
-profiles_project/settings.py/
+settings.py/
