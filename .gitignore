@@ -5,7 +5,6 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
 # C extensions
 *.so
 
@@ -134,3 +133,5 @@ dmypy.json
 # End of https://www.gitignore.io/api/python,vagrant
 eb-package.zip
 static/
+
+profiles_project/settings.py/
